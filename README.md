@@ -28,7 +28,9 @@
 
 ## Installation
 Python Version: 3.7
+
 Cuda Version: 11.3
+
 Install with pip:
 ```
     pip install torch==1.10.0+cu113 torchvision==0.11.1+cu113 torchaudio===0.10.0+cu113 -f https://download.pytorch.org/whl/cu113/torch_stable.html
@@ -37,7 +39,7 @@ Install with pip:
     pip install git+https://github.com/huggingface/diffusers.git
     pip install git+https://github.com/huggingface/huggingface_hub.git
     pip install git+https://github.com/facebookresearch/pytorch3d.git
-    pip install git+https://github.com/S-aiueo32/contextual_loss_pytorch.git
+    pip install git+https://github.com/Spencersun03/contextual_loss_pytorch.git
 ```
 Other dependencies:
 ```
